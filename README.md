@@ -1,16 +1,6 @@
 # weather_wizard
 
-A new Flutter project.
+A weather app that tells you your current weather of your city and other cities.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20200617-131907](https://user-images.githubusercontent.com/53815937/84898117-a6eb9600-b09e-11ea-9e77-865187b5ba1a.png)
+![Screenshot_20200617-131930](https://user-images.githubusercontent.com/53815937/84898189-c387ce00-b09e-11ea-8a45-6c6d77e91bcc.png)
